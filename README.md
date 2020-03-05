@@ -1,21 +1,32 @@
-# Custom-Test-Asp.net-MVC-5-Demo-App
+# .Net MVC 5 School Dashboard 
+This web app is designed to allow a teacher to make a test for the students in the class. The students can register and take the tests. A super admin initially creates the teacher accounts. This application was made using .Net and MVC 5 controller. The teacher can make custom tests and questions. The questions are indexed into a database and randomly picked from and used in the test. The test is 10 questions long. The teacher can make multiple tests. The student signs up and takes the tests available for them with a grade being shown at the end of the test. The super admin can do all the teacher does but is also allowed to make teacher accounts and only really exists to maintain the database and add teachers. 
 
-Social media web app using ASP.NET MVC 5 that allows users to create custom quizes online, leave feedback, compete on leaderboards. Users can create questions (and tests) and then take the test themselves, or share creations with other users. The goal of this project is to create an environment to help adult test takers prepare for examinations (MCAT, GRE, SAT, BCBA, etc).
+## Installation
 
-Runs in Asp.net MVC 5 and made in Visual Studio 2015. A video showcasing some of the features (but not all as the video is far older than the final release) can be found here: https://www.youtube.com/watch?v=Ak5BkZy2V0o. Will be putting it up live soon.
+To install Visual Studio is required, should work with everything after Visual Studio 2015. To run clone the repository, and run Asp.net MVC TestpreparationAppDemo.sln. Once loaded into Visual Studio run IIS Express. 
 
-This is a work made for Launchcode to show off skills with C#. It is a web app that allows users to make custom tests, with custom questions, and then take the test. It has Authorization, and uses databases.
-Most functions are commented and should make sense.
+## Technologies
 
-Currently as of 2/6/2017 the features are as follows:
-1. Make your own tests
-2. Add your own questions to said tests
-3. Take a randomized version of the test you made
-4. Question correctness authentication
-5. Score page
-6. Print tests out using the "print test" link
-7. Registration
-8. Authorization; anonymous, user, and admin
-9. All data is stored in databases
+-Visual Studio: HTML, CSS, JavaScript, C#.
+-Hosting: Azure.
+-Programing Paradigm: Agile SCRUM methodology with a team, MV 5 Controller.
 
+## Features
 
+-Teacher can make tests
+-Teacher can add questions to test
+-Test is randomized and can be taken by anyone
+-Questions and answers are calculated
+-Score is shown at the end
+-Students can register
+-Data for questions, tests, and users are stored in the database
+
+## Documanttion 
+
+#### Authorization: Anonymous, User(student), User(teacher), and Super admin
+
+#### Premade Accounts in Database
+
+Superadmin; User=Super@Admin.com  , Password=!Aa123
+Teacher;    User=FDR@Prof.com     , Password=321
+Student;    User=Jimmy@Student.com, Password=123
