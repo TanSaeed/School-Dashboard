@@ -7,19 +7,19 @@ To install Visual Studio is required, should work with everything after Visual S
 
 ## Technologies
 
--Visual Studio: HTML, CSS, JavaScript, C#.
--Hosting: Azure.
--Programing Paradigm: Agile SCRUM methodology with a team, MV 5 Controller.
+- Visual Studio: HTML, CSS, JavaScript, C#.
+- Hosting: Azure.
+- Programing Paradigm: Agile SCRUM methodology with a team, MV 5 Controller.
 
 ## Features
 
--Teacher can make tests
--Teacher can add questions to test
--Test is randomized and can be taken by anyone
--Questions and answers are calculated
--Score is shown at the end
--Students can register
--Data for questions, tests, and users are stored in the database
+- Teacher can make tests
+- Teacher can add questions to test
+- Test is randomized and can be taken by anyone
+- Questions and answers are calculated
+- Score is shown at the end
+- Students can register
+- Data for questions, tests, and users are stored in the database
 
 ## Documanttion 
 
@@ -27,7 +27,7 @@ To install Visual Studio is required, should work with everything after Visual S
 
 #### Premade Accounts in Database
 
-Superadmin; User=Super@Admin.com  , Password=!Aa123
-Teacher;    User=FDR@Prof.com     , Password=321
-Student;    User=Jimmy@Student.com, Password=123
+- Superadmin; User=Super@Admin.com  , Password=!Aa123
+- Teacher;    User=FDR@Prof.com     , Password=321
+- Student;    User=Jimmy@Student.com, Password=123
 
