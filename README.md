@@ -30,4 +30,3 @@ To install Visual Studio is required, should work with everything after Visual S
 - Superadmin; User=Super@Admin.com  , Password=!Aa123
 - Teacher;    User=FDR@Prof.com     , Password=321
 - Student;    User=Jimmy@Student.com , Password=123
-
