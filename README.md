@@ -26,7 +26,6 @@ To install Visual Studio is required, should work with everything after Visual S
 #### Authorization: Anonymous, User(student), User(teacher), and Super admin
 
 #### Premade Accounts in Database
-
 - Superadmin; User=Super@Admin.com  , Password=!Aa123
 - Teacher;    User=FDR@Prof.com     , Password=321
 - Student;    User=Jimmy@Student.com , Password=123
