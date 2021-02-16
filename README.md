@@ -9,7 +9,7 @@ To install Visual Studio is required, should work with everything after Visual S
 
 - Visual Studio: HTML, CSS, JavaScript, C#.
 - Hosting: Azure.
-- Programing Paradigm: Agile SCRUM methodology with a team, MV 5 Controller.
+- Programing Paradigm: Agile SCRUM methodology with a team, MVC 5 Controller.
 
 ## Features
 
